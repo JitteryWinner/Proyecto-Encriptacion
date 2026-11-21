@@ -15,23 +15,19 @@ ni se necesita un archivo de dependencias.
 
 Desde la carpeta del proyecto, iniciar la interfaz gráfica en Windows:
 
-```console
 py -3 main.py
-```
 
-El lanzador `py -3` selecciona la instalación de Python 3. En otros sistemas,
-o si `python` ya corresponde a esa instalación, usar `python main.py`.
+El lanzador py -3 selecciona la instalación de Python 3. En otros sistemas,
+o si python ya corresponde a esa instalación, usar python main.py.
 
 La interfaz usa Tkinter, incluido en la instalación oficial de Python para
 Windows. Si la instalación no lo incluye, habilitar el componente Tcl/Tk al
 modificar la instalación de Python. En Linux puede requerirse el paquete
-`python3-tk` de la distribución.
+python3-tk de la distribución.
 
 También se puede usar el menú por consola:
 
-```console
 py -3 Encriptacion.py
-```
 
 3. Repetir con `AB`, ` A ` y ` A  ` (sin las comillas) para comprobar
    longitudes pares e impares y la conservación de espacios.
