@@ -29,7 +29,3 @@ También se puede usar el menú por consola:
 
 py -3 Encriptacion.py
 
-3. Repetir con `AB`, ` A ` y ` A  ` (sin las comillas) para comprobar
-   longitudes pares e impares y la conservación de espacios.
-4. Probar un mensaje con tildes, un bloque de cinco dígitos o `L = 2`
-   para el cifrado del ejemplo. El programa debe informar el error.
