@@ -96,10 +96,6 @@ def ejecutar_desencriptacion():
 # Encabezado
 st.title("Encriptación y desencriptación RSA")
 
-st.caption(
-    "Proyecto final | MM2015 Matemática Discreta 1"
-)
-
 st.write(
     "Sistema de encriptación y desencriptación "
     "de mensajes mediante el algoritmo RSA."
