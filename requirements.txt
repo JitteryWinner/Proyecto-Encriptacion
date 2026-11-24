@@ -1,3 +1,2 @@
-# Este proyecto no requiere librerias externas instalables con pip.
 # Usa tkinter (incluido normalmente con Python).
-# streamlit
+streamlit==1.67.0
