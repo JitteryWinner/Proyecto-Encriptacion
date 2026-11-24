@@ -10,7 +10,7 @@ from Encriptacion import (
 
 st.set_page_config(
     page_title="Proyecto de criptografía RSA",
-    page_icon="🔐",
+    page_icon="",
     layout="centered"
 )
 
@@ -94,7 +94,7 @@ def ejecutar_desencriptacion():
 
 
 # Encabezado
-st.title("🔐 Encriptación y desencriptación RSA")
+st.title("Encriptación y desencriptación RSA")
 
 st.caption(
     "Proyecto final | MM2015 Matemática Discreta 1"
@@ -151,8 +151,8 @@ with st.expander("Requisitos de los parámetros"):
 st.divider()
 
 tab1, tab2 = st.tabs([
-    "🔒 Encriptar",
-    "🔓 Desencriptar"
+    "Encriptar",
+    "Desencriptar"
 ])
 
 # Sección de encriptación
