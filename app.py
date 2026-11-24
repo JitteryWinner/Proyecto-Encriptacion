@@ -285,16 +285,9 @@ with tab2:
 st.divider()
 
 st.markdown("""
-**Universidad del Valle de Guatemala**
-
-Matemática Discreta 1 — MM2015
 
 **Integrantes:**
 - David Berganza — 25573
 - José Alejandro Rustrian — 25512
 """)
 
-st.caption(
-    "Implementación educativa del algoritmo RSA. "
-    "No utilizar para proteger información confidencial."
-)
